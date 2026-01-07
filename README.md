@@ -3,6 +3,9 @@
 A modern, premium-looking **QR Code Generator** built with **React** that allows users to generate beautiful, branded QR codes for any website URL.  
 The application validates URLs, supports custom QR colors, embeds a logo inside the QR, and allows users to download the QR code as an image.
 
+## 🔗Live url : 
+https://soumendra-qr-generator.netlify.app/
+
 ---
 
 ## 🚀 Features
