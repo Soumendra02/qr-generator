@@ -59,8 +59,6 @@ npm run dev
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ````text
 QR_Code-Generator/
 ├── index.html
@@ -89,9 +87,9 @@ QR_Code-Generator/
 
 ---
 
-### The app will run on:
+The app will run on:
 
 http://localhost:5173
 
-### 📦 Required Dependency
+📦 Required Dependency
 npm install qrcode.react
