@@ -43,7 +43,7 @@ Follow the steps below to run this project locally:
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/qr-code-generator.git
+git clone git clone https://github.com/Soumendra02/qr-generator.git
 
 ### 2️⃣ Navigate to Project Directory
 cd qr-code-generator
