@@ -59,15 +59,32 @@ npm run dev
 
 ## 📂 Project Structure
 
-public/
-├── logo.jpg
-├── preview.png
-src/
-├── components/
-│   └── QRGenerator.jsx
-├── App.jsx
-├── main.jsx
-└── index.css
+## 📂 Project Structure
+
+````text
+QR_Code-Generator/
+├── index.html
+│
+├── public/
+│   ├── logo.jpg
+│   └── preview.png
+│
+├── src/
+│   ├── components/
+│   │   └── QRGenerator.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── .gitignore
+├── eslint.config.js
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
 
 
 ---
